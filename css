@@ -1,0 +1,13 @@
+article p:first-child {
+    font-size: 120%;
+    font-family: Arial, Helvetica, sans-serif;} 
+
+.text {font-size: 25px;}
+.text {font-weight: bold;}
+.text {color: red;}
+.text2 {font-weight: lighter;}
+.text1 {font-size: 20px}
+.text1 {color: black;}
+.text3 {font}
+.text3 {font-weight: lighter;}
+.text3 {color: black}
